@@ -1,4 +1,4 @@
-# FIFA InteractivemDashboard: Data Visualization Project
+# FIFA Interactive Dashboard: Data Visualization Project
 
 ## Overview 
 The soccer industry, both offline and online, holds significant prominence in the world of sports. Many enthusiasts transition their love for soccer into eSports, particularly EA SPORTS FIFA, known for its accuracy in reflecting real-world soccer. This project delves into the analysis of FIFA games over several years, providing insights into the attributes of different teams, clubs, and players, with a specific focus on the comparison between France and England. Hence, an interactive dashboard created in the scope of this project, which provides a comprehensive view of the analyzed data and facilitates deeper insights into soccer statistics and trends.
